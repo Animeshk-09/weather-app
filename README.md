@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#Steps to Run the Project
+
+You need to enter your OpenWeather API key — it’s a unique key you get from their website. Here’s exactly what to do: Go to 👉 https://openweathermap.org/api 
+Click Sign Up (or Login if you already have an account)
+After login, go to 👉 https://home.openweathermap.org/api_keys Copy the API key (it looks like this): 2f8c1a9b7e3c4d5e6f7a8b9c0d1e2f3a 
+Paste that key into your app’s “Enter API Key” field 
+⚠️ Important: New API keys can take 5–10 minutes to activate If you just created it, wait a bit and try again After that: Enter a city like Delhi Click Search
